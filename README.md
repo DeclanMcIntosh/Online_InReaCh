@@ -164,6 +164,16 @@ If you find this work useful, please cite:
   year={2024}
 }
 ```
+and 
+```
+@inproceedings{mcintoshInReaCh,
+      title={Inter-Realization Channels: Unsupervised Anomaly Detection in Images Beyond One-Class Classification},
+      author={Declan McIntosh and Alexandra Branzan Albu},
+      year={2023},
+      booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
+      month     = {October}
+}
+```
 
 ---
 
